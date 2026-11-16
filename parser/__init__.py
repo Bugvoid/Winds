@@ -1,1 +1,1 @@
-"""Parser: texto bruto do aviso da B3 para eventos estruturados."""
+"""Parser: texto bruto do boletim da B3 para proventos estruturados."""

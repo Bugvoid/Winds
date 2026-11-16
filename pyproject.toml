@@ -1,7 +1,7 @@
 [project]
 name = "winds"
 version = "0.0.0"
-description = "Proventos do dia a partir dos avisos da B3"
+description = "Proventos do dia a partir do boletim de proventos da B3"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []

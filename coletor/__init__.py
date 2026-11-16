@@ -1,1 +1,1 @@
-"""Coletor: download dos avisos de proventos do Plantão de Notícias da B3."""
+"""Coletor: listagem e download do boletim diário de proventos da B3."""
