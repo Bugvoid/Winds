@@ -1,0 +1,62 @@
+PROVENTOS DOS EMISSORES DEPOSITADOS NA FORMA "EX": 30/10/2026
+ 
+EMPRESA: AXIA ENERGIA - (NM)
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRAXIAA12PC7 AXIA21       PNC    RESG TOTAL RV   APROVADO: 20/10/2026
+                                                 PERCENT:  100,00000000000      
+                                                 VLR RESG: 58,72000000000       
+ 
+EMPRESA: FII SHOP PDP
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRSHDPCTF007 SHDP11       CI     RESG TOTAL RV   APROVADO: 29/10/2026
+                                                 PERCENT:  100,00000000000      
+                                                 VLR RESG: 0,00000008500        
+ 
+EMPRESA: FII SPG2
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRSPG2CTF013 SPG211       CI     RENDIMENTO      APROVADO: 29/10/2026
+                                                 VLR PROV: 0,07924679000        
+                                                 PREV PAG: 06/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:29/10/2026
+                                                 FIM.CORRE:29/10/2026
+BRSPG2CTF021 SPG215       CI     RENDIMENTO      APROVADO: 29/10/2026
+                                                 VLR PROV: 0,25447105000        
+                                                 PREV PAG: 06/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:29/10/2026
+                                                 FIM.CORRE:29/10/2026
+ 
+EMPRESA: INFOSYS LTD
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRI1FOBDR005 I1FO34       DRN    DIVIDENDO       APROVADO: 23/10/2026
+                                                 VLR PROV: 0,57151453300        
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: MORGAN STAN
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRMSBRBDR008 MSBR34       DRN    DIVIDENDO       APROVADO: 14/10/2026
+                                                 VLR PROV: 0,76847199200        
+                                                 PREV PAG: 25/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: STH COPPER
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRSCCOBDR004 SCCO34       DRN    DIVIDENDO       APROVADO: 16/10/2026
+                                                 VLR PROV: 1,48980000000        
+                                                 PREV PAG: 26/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: TEXAS INC
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRTEXABDR003 TEXA34       DRN    DIVIDENDO       APROVADO: 15/10/2026
+                                                 VLR PROV: 0,34115769600        
+                                                 PREV PAG: 19/11/2026
+                                                 EXERCICIO DE 2026

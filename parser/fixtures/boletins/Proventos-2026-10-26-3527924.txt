@@ -1,0 +1,135 @@
+PROVENTOS DOS EMISSORES DEPOSITADOS NA FORMA "EX": 26/10/2026
+ 
+EMPRESA: ASML HOLD
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRASMLBDR003 ASML34       DRN    DIVIDENDO       APROVADO: 15/10/2026
+                                                 VLR PROV: 0,15901887100        
+                                                 PREV PAG: 10/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: BNY MELLON
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBONYBDR001 BONY34       DRN    DIVIDENDO       APROVADO: 15/10/2026
+                                                 VLR PROV: 2,10828388600        
+                                                 PREV PAG: 18/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: CELANESE COR
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRC1NSBDR006 C1NS34       DRN    DIVIDENDO       APROVADO: 14/10/2026
+                                                 VLR PROV: 0,05117934300        
+                                                 PREV PAG: 16/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: FII ADSH
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRADSHCTF009 ADSH11       CI     RENDIMENTO      APROVADO: 23/10/2026
+                                                 VLR PROV: 0,02000000000        
+                                                 PREV PAG: 30/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:23/10/2026
+                                                 FIM.CORRE:23/10/2026
+BRADSHR04M15 ADSH15       REC    RENDIMENTO      APROVADO: 23/10/2026
+                                                 VLR PROV: 0,02000000000        
+                                                 PREV PAG: 30/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:23/10/2026
+                                                 FIM.CORRE:23/10/2026
+BRADSHR05M14 ADSH16       REC    RENDIMENTO      APROVADO: 23/10/2026
+                                                 VLR PROV: 0,02000000000        
+                                                 PREV PAG: 30/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:23/10/2026
+                                                 FIM.CORRE:23/10/2026
+ 
+EMPRESA: FII BTG TAGR
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBTRACTF000 BTRA11       CI     RENDIMENTO      APROVADO: 23/10/2026
+                                                 VLR PROV: 1,00000000000        
+                                                 PREV PAG: 30/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:23/10/2026
+                                                 FIM.CORRE:23/10/2026
+ 
+EMPRESA: FII BTSP II
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBTSICTF001 BTSI11       CI     RENDIMENTO      APROVADO: 23/10/2026
+                                                 VLR PROV: 0,83000000000        
+                                                 PREV PAG: 30/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:23/10/2026
+                                                 FIM.CORRE:23/10/2026
+ 
+EMPRESA: FII GALERIA
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BREDGACTF001 EDGA11       CI     RENDIMENTO      APROVADO: 23/10/2026
+                                                 VLR PROV: 0,07000000000        
+                                                 PREV PAG: 30/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:23/10/2026
+                                                 FIM.CORRE:23/10/2026
+ 
+EMPRESA: FII GAZIT
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRGZITCTF005 GZIT11       CI     RENDIMENTO      APROVADO: 23/10/2026
+                                                 VLR PROV: 0,36000000000        
+                                                 PREV PAG: 30/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:23/10/2026
+                                                 FIM.CORRE:23/10/2026
+ 
+EMPRESA: FII IDUA
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRIDUACTF003 IDUA11       CI     RENDIMENTO      APROVADO: 23/10/2026
+                                                 VLR PROV: 0,02627289100        
+                                                 PREV PAG: 30/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:23/10/2026
+                                                 FIM.CORRE:23/10/2026
+                                 AMORTIZACAO RF  APROVADO: 23/10/2026
+                                                 VLR PROV: 0,68614116900        
+                                                 PREV PAG: 30/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:23/10/2026
+                                                 FIM.CORRE:23/10/2026
+ 
+EMPRESA: FIP PRISMA
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRPPEICTF009 PPEI11       CI     RENDIMENTO      APROVADO: 23/10/2026
+                                                 VLR PROV: 1,00000000000        
+                                                 PREV PAG: 30/10/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: GE VERNOVA
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRG2EVBDR003 G2EV34       DRN    DIVIDENDO       APROVADO: 30/09/2026
+                                                 VLR PROV: 0,08761164000        
+                                                 PREV PAG: 30/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: INFRA PRIF
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRPRIFCTF002 PRIF11       CI     AMORTIZACAO RF  APROVADO: 23/10/2026
+                                                 VLR PROV: 25,00000000000       
+                                                 PREV PAG: 30/10/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: NOKIA CORP
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRNOKIBDR005 NOKI34       DRN    DIVIDENDO       APROVADO: 27/02/2026
+                                                 VLR PROV: 0,13442245800        
+                                                 PREV PAG: 16/11/2026
+                                                 EXERCICIO DE 2026

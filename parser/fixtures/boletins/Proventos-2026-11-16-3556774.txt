@@ -1,0 +1,323 @@
+PROVENTOS DOS EMISSORES DEPOSITADOS NA FORMA "EX": 16/11/2026
+ 
+EMPRESA: CASAN
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRCASNACNOR6 CASN3        ON     JRS CAP PROPRIO APROVADO: 10/11/2026
+                                                 VLR PROV: 0,05500000000        
+                                                 EXERCICIO DE 2026
+BRCASNACNPR3 CASN4        PN     JRS CAP PROPRIO APROVADO: 10/11/2026
+                                                 VLR PROV: 0,06050000000        
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: CURY S/A - (NM)
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRCURYACNOR3 CURY3        ON     DIVIDENDO       APROVADO: 09/11/2026
+                                                 VLR PROV: 0,64925032331        
+                                                 PREV PAG: 30/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: DEXXOS PAR - (N1)
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRDEXPACNOR1 DEXP3        ON     DIVIDENDO       APROVADO: 28/10/2026
+                                                 VLR PROV: 0,16707696000        
+                                                 PREV PAG: 22/01/2027
+                                                 EXERCICIO DE 2026
+                                 DIVIDENDO       APROVADO: 28/10/2026
+                                                 VLR PROV: 0,16707696000        
+                                                 PREV PAG: 26/11/2026
+                                                 EXERCICIO DE 2026
+                                 DIVIDENDO       APROVADO: 28/10/2026
+                                                 VLR PROV: 0,16707696000        
+                                                 PREV PAG: 23/12/2026
+                                                 EXERCICIO DE 2026
+BRDEXPACNPR8 DEXP4        PN     DIVIDENDO       APROVADO: 28/10/2026
+                                                 VLR PROV: 0,16781138000        
+                                                 PREV PAG: 23/12/2026
+                                                 EXERCICIO DE 2026
+                                 DIVIDENDO       APROVADO: 28/10/2026
+                                                 VLR PROV: 0,16781138000        
+                                                 PREV PAG: 26/11/2026
+                                                 EXERCICIO DE 2026
+                                 DIVIDENDO       APROVADO: 28/10/2026
+                                                 VLR PROV: 0,16781138000        
+                                                 PREV PAG: 22/01/2027
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: FIAGRO SNFZ
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRSNFZCTF009 SNFZ11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 0,10000000000        
+                                                 PREV PAG: 25/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+ 
+EMPRESA: FIAGRO SUNO
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRSNAGCTF000 SNAG11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 0,12000000000        
+                                                 PREV PAG: 25/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+ 
+EMPRESA: FII ALI URB
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRAURBCTF008 AURB11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 0,40000000000        
+                                                 PREV PAG: 23/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+ 
+EMPRESA: FII B VAREJO
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBVARCTF006 BVAR11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 5,00000000000        
+                                                 PREV PAG: 24/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+ 
+EMPRESA: FII BTLG
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBTLGCTF000 BTLG11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 0,81000000000        
+                                                 PREV PAG: 25/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+ 
+EMPRESA: FII GLPG CRI
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRGCRICTF008 GCRI11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 0,85000000000        
+                                                 PREV PAG: 23/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+ 
+EMPRESA: FII JCSC
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRJCSCCTF037 JCSC11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 0,71000000000        
+                                                 PREV PAG: 23/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+ 
+EMPRESA: FII JHSF CJ
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRJCCJCTF002 JCCJ11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 1,77000000000        
+                                                 PREV PAG: 23/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+ 
+EMPRESA: FII OURI JPP
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BROUJPCTF006 OUJP11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 0,85000000000        
+                                                 PREV PAG: 24/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+ 
+EMPRESA: FII RBR FEED
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRRCFFCTF006 RCFF11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 0,15260000000        
+                                                 PREV PAG: 23/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+ 
+EMPRESA: FII RCRI
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRRCRICTF021 RCRI11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 1,10000000000        
+                                                 PREV PAG: 23/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+ 
+EMPRESA: FII REAL INV
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRRINVCTF004 RINV11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 1,10000000000        
+                                                 PREV PAG: 23/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+ 
+EMPRESA: FII RZZI
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRRZZICTF009 RZZI11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 9,20000004100        
+                                                 PREV PAG: 23/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+ 
+EMPRESA: FII RZZV
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRRZZVCTF002 RZZV11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 8,29999998400        
+                                                 PREV PAG: 23/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+ 
+EMPRESA: FII SNME
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRSNMECTF000 SNME11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 0,10000000000        
+                                                 PREV PAG: 25/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+BRSNMER03M13 SNME13       REC    RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 0,10000000000        
+                                                 PREV PAG: 25/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+ 
+EMPRESA: FII SUNO CRI
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRSNCICTF002 SNCI11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 1,00000000000        
+                                                 PREV PAG: 25/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+ 
+EMPRESA: FII SUNO EL
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRSNELCTF010 SNEL11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 0,10000000000        
+                                                 PREV PAG: 25/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+ 
+EMPRESA: FII TOPP PAX
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRTOPPCTF013 TOPP11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 0,45000000000        
+                                                 PREV PAG: 23/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+ 
+EMPRESA: FII VINCI TR
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRVTOTCTF005 VTOT11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 0,85000000000        
+                                                 PREV PAG: 23/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:13/11/2026
+                                                 FIM.CORRE:13/11/2026
+ 
+EMPRESA: LOG COM PROP - (NM)
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRLOGGACNOR7 LOGG3        ON     DIVIDENDO       APROVADO: 09/11/2026
+                                                 VLR PROV: 0,99467134450        
+                                                 PREV PAG: 30/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: METAL LEVE - (NM)
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRLEVEACNOR2 LEVE3        ON     JRS CAP PROPRIO APROVADO: 10/11/2026
+                                                 VLR PROV: 0,76694499050        
+                                                 PREV PAG: 18/12/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: MITRE REALTY - (NM)
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRMTREACNOR6 MTRE3        ON     DIVIDENDO       APROVADO: 15/10/2026
+                                                 VLR PROV: 0,03781618347        
+                                                 PREV PAG: 27/11/2026
+                                                 EXERCICIO DE 2025
+ 
+EMPRESA: PHILLIPS 66
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRP1SXBDR000 P1SX34       DRN    DIVIDENDO       APROVADO: 16/10/2026
+                                                 VLR PROV: 0,28578125000        
+                                                 PREV PAG: 07/12/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: REDE ENERGIA
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRREDEACNOR7 REDE3        ON     DIVIDENDO       APROVADO: 10/11/2026
+                                                 VLR PROV: 0,05451279800        
+                                                 PREV PAG: 10/12/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: STERIS PLC
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRS1TEBDR005 S1TE34       DRN    DIVIDENDO       APROVADO: 28/10/2026
+                                                 VLR PROV: 0,13356824300        
+                                                 PREV PAG: 23/12/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: SUNO FIC FI
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRSNIDCTF018 SNID11       CI     RENDIMENTO      APROVADO: 13/11/2026
+                                                 VLR PROV: 0,11000000000        
+                                                 PREV PAG: 25/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: TECHNIPFMC P
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRT1ECBDR000 T1EC34       DRN    DIVIDENDO       APROVADO: 27/10/2026
+                                                 VLR PROV: 0,25774641000        
+                                                 PREV PAG: 08/12/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: VERISIGN INC
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRVRSNBDR004 VRSN34       DRN    DIVIDENDO       APROVADO: 23/10/2026
+                                                 VLR PROV: 0,69004672900        
+                                                 PREV PAG: 30/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: WABTEC CORP
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRW1ABBDR005 W1AB34       DRN    DIVIDENDO       APROVADO: 14/10/2026
+                                                 VLR PROV: 0,52883812000        
+                                                 PREV PAG: 07/12/2026
+                                                 EXERCICIO DE 2026

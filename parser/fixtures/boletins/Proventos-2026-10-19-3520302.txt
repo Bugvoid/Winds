@@ -1,0 +1,150 @@
+PROVENTOS DOS EMISSORES DEPOSITADOS NA FORMA "EX": 19/10/2026
+ 
+EMPRESA: DELL TECHNOL
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRD1ELBDR009 D1EL34       DRN    DIVIDENDO       APROVADO: 01/09/2026
+                                                 VLR PROV: 0,08790509300        
+                                                 PREV PAG: 06/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: FII ALIANZA
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRALZRCTF006 ALZR11       CI     RENDIMENTO      APROVADO: 16/10/2026
+                                                 VLR PROV: 0,08400000000        
+                                                 PREV PAG: 23/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:16/10/2026
+                                                 FIM.CORRE:16/10/2026
+ 
+EMPRESA: FII ALIANZAC
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRALZCCTF016 ALZC11       CI     RENDIMENTO      APROVADO: 16/10/2026
+                                                 VLR PROV: 0,09000000000        
+                                                 PREV PAG: 23/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:16/10/2026
+                                                 FIM.CORRE:16/10/2026
+ 
+EMPRESA: FII BETW
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBETWCTF002 BETW11       CI     RENDIMENTO      APROVADO: 16/10/2026
+                                                 VLR PROV: 0,62500000000        
+                                                 PREV PAG: 23/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:16/10/2026
+                                                 FIM.CORRE:16/10/2026
+ 
+EMPRESA: FII BTG SHOP
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBPMLCTF006 BPML11       CI     RENDIMENTO      APROVADO: 16/10/2026
+                                                 VLR PROV: 0,92000000000        
+                                                 PREV PAG: 23/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:16/10/2026
+                                                 FIM.CORRE:16/10/2026
+ 
+EMPRESA: FII CAMPUSFL
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRFCFLCTF009 FCFL11       CI     RENDIMENTO      APROVADO: 16/10/2026
+                                                 VLR PROV: 0,94000000000        
+                                                 PREV PAG: 23/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:16/10/2026
+                                                 FIM.CORRE:16/10/2026
+ 
+EMPRESA: FII CPOF
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRCPOFCTF002 CPOF11       CI     RENDIMENTO      APROVADO: 16/10/2026
+                                                 VLR PROV: 2,00000000000        
+                                                 PREV PAG: 23/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:16/10/2026
+                                                 FIM.CORRE:16/10/2026
+ 
+EMPRESA: FII CYLD
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRCYLDCTF005 CYLD11       CI     RENDIMENTO      APROVADO: 16/10/2026
+                                                 VLR PROV: 0,76537961100        
+                                                 PREV PAG: 23/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:16/10/2026
+                                                 FIM.CORRE:16/10/2026
+ 
+EMPRESA: FII INTER IP
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRITIPCTF002 ITIP11       CI     RESG TOTAL RV   APROVADO: 16/10/2026
+                                                 PERCENT:  100,00000000000      
+                                                 VLR RESG: 3,91255916300        
+ 
+EMPRESA: FII INTER RD
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRINRDCTF002 INRD11       CI     RENDIMENTO      APROVADO: 16/10/2026
+                                                 VLR PROV: 5,64000000000        
+                                                 PREV PAG: 16/11/2026
+                                                 EXERCICIO DE 2026
+                                 RESG TOTAL RV   APROVADO: 16/10/2026
+                                                 PERCENT:  100,00000000000      
+                                                 VLR RESG: 6,77288560000        
+ 
+EMPRESA: FII MAUA RE
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRMCRECTF013 MCRE11       CI     RENDIMENTO      APROVADO: 16/10/2026
+                                                 VLR PROV: 0,10000000000        
+                                                 PREV PAG: 23/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:16/10/2026
+                                                 FIM.CORRE:16/10/2026
+ 
+EMPRESA: FII XP INDL
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRXPINCTF004 XPIN11       CI     RENDIMENTO      APROVADO: 16/10/2026
+                                                 VLR PROV: 0,33000000000        
+                                                 PREV PAG: 23/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:16/10/2026
+                                                 FIM.CORRE:16/10/2026
+ 
+EMPRESA: FII XP MALLS
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRXPMLCTF000 XPML11       CI     RENDIMENTO      APROVADO: 16/10/2026
+                                                 VLR PROV: 0,92000000000        
+                                                 PREV PAG: 23/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:16/10/2026
+                                                 FIM.CORRE:16/10/2026
+ 
+EMPRESA: GX NASDAQ100
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBQYLBDR000 BQYL39       DRE    DIVIDENDO       APROVADO: 23/09/2026
+                                                 VLR PROV: 0,09748806700        
+                                                 PREV PAG: 28/10/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: INTER CO
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRINBRBDR015 INBR99       BDR    RESG TOTAL RV   APROVADO: 16/10/2026
+                                                 PERCENT:  100,00000000000      
+                                                 VLR RESG: 0,01000000000        
+ 
+EMPRESA: PRINER - (NM)
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRPRNRACNOR4 PRNR3        ON     SUBSCRICAO      APROVADO: 08/10/2026
+                                                 PERCENT:  19,29176223000       
+                                                 INCIDENTE:BRPRNRACNOR4
+                                                 VLR EMIS: 20,00000000000
