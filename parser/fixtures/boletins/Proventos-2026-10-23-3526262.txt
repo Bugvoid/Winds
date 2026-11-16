@@ -1,0 +1,43 @@
+PROVENTOS DOS EMISSORES DEPOSITADOS NA FORMA "EX": 23/10/2026
+ 
+EMPRESA: ALLOS - (NM)
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRALOSACNOR5 ALOS3        ON     DIVIDENDO       APROVADO: 15/09/2026
+                                                 VLR PROV: 0,29191863800        
+                                                 PREV PAG: 04/11/2026
+                                                 EXERCICIO DE 2025
+ 
+EMPRESA: FII ITAU TEM
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRTMPSCTF003 TMPS11       CI     AMORTIZACAO RF  APROVADO: 22/10/2026
+                                                 VLR PROV: 6,50000000000        
+                                                 PREV PAG: 29/10/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:22/10/2026
+                                                 FIM.CORRE:22/10/2026
+ 
+EMPRESA: FIP BTGDV IE
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBDIVCTF009 BDIV11       CI     RENDIMENTO      APROVADO: 22/10/2026
+                                                 VLR PROV: 1,60000000000        
+                                                 PREV PAG: 29/10/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: M.DIASBRANCO - (NM)
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRMDIAACNOR7 MDIA3        ON     DIVIDENDO       APROVADO: 12/12/2025
+                                                 VLR PROV: 0,03000000000        
+                                                 PREV PAG: 30/10/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: PAYCHEX INC
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRP1AYBDR006 P1AY34       DRN    DIVIDENDO       APROVADO: 15/10/2026
+                                                 VLR PROV: 2,03329923300        
+                                                 PREV PAG: 01/12/2026
+                                                 EXERCICIO DE 2026

@@ -1,0 +1,41 @@
+PROVENTOS DOS EMISSORES DEPOSITADOS NA FORMA "EX": 22/10/2026
+ 
+EMPRESA: BRASILAGRO - (NM)
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRAGROACNOR7 AGRO3        ON     DIVIDENDO       APROVADO: 21/10/2026
+                                                 VLR PROV: 0,30115808232        
+                                                 PREV PAG: 16/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: GEHEALTHCARE
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRGEHCBDR009 GEHC34       DRN    DIVIDENDO       APROVADO: 22/09/2026
+                                                 VLR PROV: 0,01730000000        
+                                                 PREV PAG: 19/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: PENTAIR PLC
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRP1NRBDR003 P1NR34       DRN    DIVIDENDO       APROVADO: 21/09/2026
+                                                 VLR PROV: 1,00024509800        
+                                                 PREV PAG: 12/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: PG
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRPGCOBDR001 PGCO34       DRN    DIVIDENDO       APROVADO: 13/10/2026
+                                                 VLR PROV: 0,26346303500        
+                                                 PREV PAG: 23/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: REVVITY INC
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRR1VTBDR000 R1VT34       DRN    DIVIDENDO       APROVADO: 31/07/2026
+                                                 VLR PROV: 0,00858843500        
+                                                 PREV PAG: 19/11/2026
+                                                 EXERCICIO DE 2026

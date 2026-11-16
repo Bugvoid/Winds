@@ -1,0 +1,186 @@
+PROVENTOS DOS EMISSORES DEPOSITADOS NA FORMA "EX": 05/11/2026
+ 
+EMPRESA: BKR SEMICOND
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBSOXBDR002 BSOX39       DRE    DESDOBRAMENTO   APROVADO: 04/11/2026
+                                                 PERCENT:  200,00000000000      
+                                                 INCIDENTE:BRBSOXBDR002
+ 
+EMPRESA: CARNIVAL COR
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRC1CLBDR004 C1CL34       DRN    DIVIDENDO       APROVADO: 22/10/2026
+                                                 VLR PROV: 0,73028698000        
+                                                 PREV PAG: 03/12/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: CMS ENERGY C
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRC1MSBDR008 C1MS34       DRN    DIVIDENDO       APROVADO: 19/10/2026
+                                                 VLR PROV: 0,97471751400        
+                                                 PREV PAG: 07/12/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: FIAGRO BRFT
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBRFTCTF009 BRFT11       CI     AMORTIZACAO RF  APROVADO: 04/11/2026
+                                                 VLR PROV: 1,00000000000        
+                                                 PREV PAG: 10/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:04/11/2026
+                                                 FIM.CORRE:04/11/2026
+ 
+EMPRESA: FIAGRO ECO
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BREGAFCTF006 EGAF11       CI     RENDIMENTO      APROVADO: 04/11/2026
+                                                 VLR PROV: 1,21000000000        
+                                                 PREV PAG: 11/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:04/11/2026
+                                                 FIM.CORRE:04/11/2026
+ 
+EMPRESA: FII KINEA PR
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRKNPRCTF002 KNPR11       CI     RESG TOTAL RV   APROVADO: 04/11/2026
+                                                 PERCENT:  100,00000000000      
+                                                 VLR RESG: 28,00000000000       
+ 
+EMPRESA: FII VGRM
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRVGRMCTF000 VGRM11       CI     RENDIMENTO      APROVADO: 04/11/2026
+                                                 VLR PROV: 1,24000000000        
+                                                 PREV PAG: 11/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:04/11/2026
+                                                 FIM.CORRE:04/11/2026
+ 
+EMPRESA: FIRSTENERGY
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRF1ECBDR006 F1EC34       DRN    DIVIDENDO       APROVADO: 29/09/2026
+                                                 VLR PROV: 0,41047991100        
+                                                 PREV PAG: 07/12/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: HOWMET AERO
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRARNCBDR002 ARNC34       DRN    DIVIDENDO       APROVADO: 14/10/2026
+                                                 VLR PROV: 0,01910693900        
+                                                 PREV PAG: 01/12/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: HSBC HOLDING
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRH1SBBDR006 H1SB34       DRN    DIVIDENDO       APROVADO: 27/10/2026
+                                                 VLR PROV: 0,63791870500        
+                                                 PREV PAG: 23/12/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: JB HUNT TRAN
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRJ1BHBDR007 J1BH34       DRN    DIVIDENDO       APROVADO: 21/10/2026
+                                                 VLR PROV: 0,04499346400        
+                                                 PREV PAG: 26/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: LAMB WESTON
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRL1WHBDR009 L1WH34       DRN    DIVIDENDO       APROVADO: 06/10/2026
+                                                 VLR PROV: 0,63871402000        
+                                                 PREV PAG: 10/12/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: MASCO CORP
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRM1ASBDR001 M1AS34       DRN    DIVIDENDO       APROVADO: 28/10/2026
+                                                 VLR PROV: 1,16000000000        
+                                                 PREV PAG: 27/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: MSCIEAFEGROW
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBEFGBDR005 BEFG39       DRE    DESDOBRAMENTO   APROVADO: 04/11/2026
+                                                 PERCENT:  200,00000000000      
+                                                 INCIDENTE:BRBEFGBDR005
+ 
+EMPRESA: MSCIEAFEVALU
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBEFVBDR004 BEFV39       DRE    DESDOBRAMENTO   APROVADO: 08/10/2026
+                                                 PERCENT:  100,00000000000      
+                                                 INCIDENTE:BRBEFVBDR004
+ 
+EMPRESA: MSCIUSAMOM F
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBMTUBDR000 BMTU39       DRE    DESDOBRAMENTO   APROVADO: 08/10/2026
+                                                 PERCENT:  300,00000000000      
+                                                 INCIDENTE:BRBMTUBDR000
+ 
+EMPRESA: MSCIUSQUAL F
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBQUABDR001 BQUA39       DRE    DESDOBRAMENTO   APROVADO: 08/10/2026
+                                                 PERCENT:  300,00000000000      
+                                                 INCIDENTE:BRBQUABDR001
+ 
+EMPRESA: NORFOLK SOUT
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRN1SCBDR006 N1SC34       DRN    DIVIDENDO       APROVADO: 22/10/2026
+                                                 VLR PROV: 1,14990000000        
+                                                 PREV PAG: 26/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: OBTC DIG YLD
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRDIGYCTF002 DIGY11       CI     RENDIMENTO      APROVADO: 04/11/2026
+                                                 VLR PROV: 0,14000000000        
+                                                 PREV PAG: 11/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:04/11/2026
+                                                 FIM.CORRE:04/11/2026
+ 
+EMPRESA: PFIZER
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRPFIZBDR006 PFIZ34       DRN    DIVIDENDO       APROVADO: 06/10/2026
+                                                 VLR PROV: 0,36137962300        
+                                                 PREV PAG: 11/12/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: RINGCENTRAL
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRR2NGBDR002 R2NG34       DRN    DIVIDENDO       APROVADO: 22/10/2026
+                                                 VLR PROV: 0,01703975300        
+                                                 PREV PAG: 26/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: US AEROSPACE
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBAERBDR003 BAER39       DRE    DESDOBRAMENTO   APROVADO: 08/10/2026
+                                                 PERCENT:  200,00000000000      
+                                                 INCIDENTE:BRBAERBDR003
+ 
+EMPRESA: WELLS FARGO
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRWFCOBDR009 WFCO34       DRN    DIVIDENDO       APROVADO: 27/10/2026
+                                                 VLR PROV: 0,45105364100        
+                                                 PREV PAG: 07/12/2026
+                                                 EXERCICIO DE 2026

@@ -1,0 +1,73 @@
+PROVENTOS DOS EMISSORES DEPOSITADOS NA FORMA "EX": 27/10/2026
+ 
+EMPRESA: CLOROX CO
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRCLXCBDR000 CLXC34       DRN    DIVIDENDO       APROVADO: 24/09/2026
+                                                 VLR PROV: 1,09483509200        
+                                                 PREV PAG: 19/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: ENTEGRIS INC
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRE2NTBDR000 E2NT34       DRN    DIVIDENDO       APROVADO: 14/10/2026
+                                                 VLR PROV: 0,01895981100        
+                                                 PREV PAG: 25/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: FASTENAL
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRFASLBDR007 FASL34       DRN    DIVIDENDO       APROVADO: 13/10/2026
+                                                 VLR PROV: 0,88101663600        
+                                                 PREV PAG: 01/12/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: FII ALIANZA
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRALZRCTF006 ALZR11       CI     SUBSCRICAO      APROVADO: 26/10/2026
+                                                 PERCENT:  24,33541487724       
+                                                 INCIDENTE:BRALZRCTF006
+                                                 VLR EMIS: 10,71000000000       
+ 
+EMPRESA: FII ELDORADO
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRELDOCTF002 ELDO11       CI     RENDIMENTO      APROVADO: 26/10/2026
+                                                 VLR PROV: 1,00000000000        
+                                                 PREV PAG: 03/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:26/10/2026
+                                                 FIM.CORRE:26/10/2026
+ 
+EMPRESA: KT CORP
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRK1TCBDR007 K1TC34       DRN    DIVIDENDO       APROVADO: 14/10/2026
+                                                 VLR PROV: 0,80434700300        
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: TELEF BRASIL
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRVIVTACNOR0 VIVT3        ON     JRS CAP PROPRIO APROVADO: 14/10/2026
+                                                 VLR PROV: 0,14081834570        
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: WT FLOATRATE
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBUSFBDR006 BUSF39       DRE    DIVIDENDO       APROVADO: 23/09/2026
+                                                 VLR PROV: 0,05140000000        
+                                                 PREV PAG: 05/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: WT YIELD ENH
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBAGYBDR004 BAGY39       DRE    DIVIDENDO       APROVADO: 23/09/2026
+                                                 VLR PROV: 0,06181818200        
+                                                 PREV PAG: 05/11/2026
+                                                 EXERCICIO DE 2026

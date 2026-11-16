@@ -1,0 +1,141 @@
+PROVENTOS DOS EMISSORES DEPOSITADOS NA FORMA "EX": 06/11/2026
+ 
+EMPRESA: AMERIPRISE F
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRA1MPBDR006 A1MP34       DRN    DIVIDENDO       APROVADO: 29/10/2026
+                                                 VLR PROV: 0,15450282700        
+                                                 PREV PAG: 03/12/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: BTG HOTEL FI
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBTHICTF004 BTHI11       CI     RENDIMENTO      APROVADO: 05/11/2026
+                                                 VLR PROV: 0,45000000000        
+                                                 PREV PAG: 16/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:05/11/2026
+                                                 FIM.CORRE:05/11/2026
+ 
+EMPRESA: FII MCLO
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRMCLOCTF007 MCLO11       CI     RENDIMENTO      APROVADO: 05/11/2026
+                                                 VLR PROV: 0,07000000000        
+                                                 PREV PAG: 12/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:05/11/2026
+                                                 FIM.CORRE:05/11/2026
+ 
+EMPRESA: FII MULT REN
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRVVMRCTF009 VVMR11       CI     AMORTIZACAO RF  APROVADO: 05/11/2026
+                                                 VLR PROV: 5,80000000000        
+                                                 PREV PAG: 23/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:05/11/2026
+                                                 FIM.CORRE:05/11/2026
+ 
+EMPRESA: FII RENV
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRRENVCTF003 RENV11       CI     RENDIMENTO      APROVADO: 05/11/2026
+                                                 VLR PROV: 0,08000000000        
+                                                 PREV PAG: 16/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:05/11/2026
+                                                 FIM.CORRE:05/11/2026
+ 
+EMPRESA: FII RZLC
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRRZLCCTF002 RZLC11       CI     RENDIMENTO      APROVADO: 05/11/2026
+                                                 VLR PROV: 11,57763420000       
+                                                 PREV PAG: 12/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:05/11/2026
+                                                 FIM.CORRE:05/11/2026
+BRRZLCCTF010 RZLC15       CI     RENDIMENTO      APROVADO: 05/11/2026
+                                                 VLR PROV: 10,00000000000       
+                                                 PREV PAG: 12/11/2026
+                                                 EXERCICIO DE 2026
+                                                 INI.CORRE:05/11/2026
+                                                 FIM.CORRE:05/11/2026
+ 
+EMPRESA: GP AEROPACIF
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRP2CFBDR009 P2CF34       DRN    DIVIDENDO       APROVADO: 28/10/2026
+                                                 VLR PROV: 0,36014120400        
+                                                 PREV PAG: 23/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: ODERICH
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRODERACNOR6 ODER3        ON     JRS CAP PROPRIO APROVADO: 30/10/2026
+                                                 VLR PROV: 0,09300000000        
+                                                 PREV PAG: 30/06/2027
+                                                 EXERCICIO DE 2026
+                                 JRS CAP PROPRIO APROVADO: 30/10/2026
+                                                 VLR PROV: 0,09300000000        
+                                                 PREV PAG: 31/05/2027
+                                                 EXERCICIO DE 2026
+                                 JRS CAP PROPRIO APROVADO: 30/10/2026
+                                                 VLR PROV: 0,09300000000        
+                                                 PREV PAG: 31/08/2027
+                                                 EXERCICIO DE 2026
+                                 JRS CAP PROPRIO APROVADO: 30/10/2026
+                                                 VLR PROV: 0,09300000000        
+                                                 PREV PAG: 30/07/2027
+                                                 EXERCICIO DE 2026
+                                 JRS CAP PROPRIO APROVADO: 30/10/2026
+                                                 VLR PROV: 0,09300000000        
+                                                 PREV PAG: 30/09/2027
+                                                 EXERCICIO DE 2026
+BRODERACNPR3 ODER4        PN     JRS CAP PROPRIO APROVADO: 30/10/2026
+                                                 VLR PROV: 0,09300000000        
+                                                 PREV PAG: 30/09/2027
+                                                 EXERCICIO DE 2026
+                                 JRS CAP PROPRIO APROVADO: 30/10/2026
+                                                 VLR PROV: 0,09300000000        
+                                                 PREV PAG: 31/05/2027
+                                                 EXERCICIO DE 2026
+                                 JRS CAP PROPRIO APROVADO: 30/10/2026
+                                                 VLR PROV: 0,09300000000        
+                                                 PREV PAG: 30/06/2027
+                                                 EXERCICIO DE 2026
+                                 JRS CAP PROPRIO APROVADO: 30/10/2026
+                                                 VLR PROV: 0,09300000000        
+                                                 PREV PAG: 31/08/2027
+                                                 EXERCICIO DE 2026
+                                 JRS CAP PROPRIO APROVADO: 30/10/2026
+                                                 VLR PROV: 0,09300000000        
+                                                 PREV PAG: 30/07/2027
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: PROSUS N.V.
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRPRXBBDR001 PRXB31       DR1    DIVIDENDO       APROVADO: 27/10/2026
+                                                 VLR PROV: 0,08749787500        
+                                                 PREV PAG: 18/12/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: VULCAN MATER
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRV1MCBDR009 V1MC34       DRN    DIVIDENDO       APROVADO: 09/10/2026
+                                                 VLR PROV: 0,02924780700        
+                                                 PREV PAG: 30/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: WW GRAINGER
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRG1WWBDR005 G1WW34       DRN    DIVIDENDO       APROVADO: 28/10/2026
+                                                 VLR PROV: 0,22493617300        
+                                                 PREV PAG: 07/12/2026
+                                                 EXERCICIO DE 2026

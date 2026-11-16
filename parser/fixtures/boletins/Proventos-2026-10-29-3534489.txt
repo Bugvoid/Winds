@@ -1,0 +1,185 @@
+PROVENTOS DOS EMISSORES DEPOSITADOS NA FORMA "EX": 29/10/2026
+ 
+EMPRESA: AES CORP
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRA1ESBDR007 A1ES34       DRN    DIVIDENDO       APROVADO: 09/10/2026
+                                                 VLR PROV: 0,59379295500        
+                                                 PREV PAG: 19/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: AGREE REALTY
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRA1DCBDR003 A1DC34       DRN    DIVIDENDO       APROVADO: 13/10/2026
+                                                 VLR PROV: 0,11478896100        
+                                                 PREV PAG: 19/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: ALLIANT ENER
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRA1ENBDR008 A1EN34       DRN    DIVIDENDO       APROVADO: 16/10/2026
+                                                 VLR PROV: 1,84000000000        
+                                                 PREV PAG: 23/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: AO SMITH COR
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRA1OSBDR006 A1OS34       DRN    DIVIDENDO       APROVADO: 12/10/2026
+                                                 VLR PROV: 1,28204545500        
+                                                 PREV PAG: 23/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: AON PLC
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRA1ONBDR007 A1ON34       DRN    DIVIDENDO       APROVADO: 09/10/2026
+                                                 VLR PROV: 0,12354166700        
+                                                 PREV PAG: 19/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: CITIGROUP
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRCTGPBDR000 CTGP34       DRN    DIVIDENDO       APROVADO: 20/10/2026
+                                                 VLR PROV: 0,37872524300        
+                                                 PREV PAG: 01/12/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: CITIZENS FIN
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRC1FGBDR007 C1FG34       DRN    DIVIDENDO       APROVADO: 16/10/2026
+                                                 VLR PROV: 1,78774359000        
+                                                 PREV PAG: 19/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: CONSTELLATIO
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRSTZBBDR006 STZB34       DRN    DIVIDENDO       APROVADO: 06/10/2026
+                                                 VLR PROV: 0,28854453200        
+                                                 PREV PAG: 19/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: COSTCO
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRCOWCBDR006 COWC34       DRN    DIVIDENDO       APROVADO: 14/10/2026
+                                                 VLR PROV: 0,12538844100        
+                                                 PREV PAG: 19/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: FIP PERFIN
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRPFINCTF001 PFIN11       CI     RENDIMENTO      APROVADO: 28/10/2026
+                                                 VLR PROV: 1,28000000000        
+                                                 PREV PAG: 04/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: HUMANA INC
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRH1UMBDR009 H1UM34       DRN    DIVIDENDO       APROVADO: 02/09/2026
+                                                 VLR PROV: 0,06820867800        
+                                                 PREV PAG: 03/12/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: JHSF PART - (NM)
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRJHSFACNOR2 JHSF3        ON     DIVIDENDO       APROVADO: 19/12/2025
+                                                 VLR PROV: 0,06915633950        
+                                                 PREV PAG: 09/11/2026
+                                                 EXERCICIO DE 2025
+ 
+EMPRESA: KINDER MORGA
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRKMICBDR002 KMIC34       DRN    DIVIDENDO       APROVADO: 21/10/2026
+                                                 VLR PROV: 0,33725225200        
+                                                 PREV PAG: 23/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: LAS VEGAS SA
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRL1VSBDR008 L1VS34       DRN    DIVIDENDO       APROVADO: 21/10/2026
+                                                 VLR PROV: 0,20404986100        
+                                                 PREV PAG: 16/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: NISOURCE INC
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRN1ISBDR003 N1IS34       DRN    DIVIDENDO       APROVADO: 11/08/2026
+                                                 VLR PROV: 1,04070506800        
+                                                 PREV PAG: 26/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: NRG ENERGY I
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRN1RGBDR009 N1RG34       DRN    DIVIDENDO       APROVADO: 19/10/2026
+                                                 VLR PROV: 0,16246180600        
+                                                 PREV PAG: 23/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: ONEOK INC
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRO1KEBDR008 O1KE34       DRN    DIVIDENDO       APROVADO: 14/10/2026
+                                                 VLR PROV: 1,82537939800        
+                                                 PREV PAG: 23/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: PINNACLE WES
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRP1NWBDR003 P1NW34       DRN    DIVIDENDO       APROVADO: 21/10/2026
+                                                 VLR PROV: 1,57291666700        
+                                                 PREV PAG: 07/12/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: REALTY INCOM
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRR1INBDR000 R1IN34       DRN    DIVIDENDO       APROVADO: 13/10/2026
+                                                 VLR PROV: 0,15333376600        
+                                                 PREV PAG: 19/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: SANTANDER
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRBCSABDR005 BCSA34       DRN    DIVIDENDO       APROVADO: 01/10/2026
+                                                 VLR PROV: 0,52353083300        
+                                                 PREV PAG: 11/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: TANGER INC
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRS1KTBDR002 S1KT34       DRN    DIVIDENDO       APROVADO: 15/10/2026
+                                                 VLR PROV: 0,26833333300        
+                                                 PREV PAG: 19/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: UNUM GROUP
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRU1NMBDR007 U1NM34       DRN    DIVIDENDO       APROVADO: 15/10/2026
+                                                 VLR PROV: 0,21571202500        
+                                                 PREV PAG: 26/11/2026
+                                                 EXERCICIO DE 2026
+ 
+EMPRESA: ZOETIS INC
+ 
+    ISIN     COD NEG      ESPEC  PROVENTO        OBSERVACAO
+BRZ1TSBDR006 Z1TS34       DRN    DIVIDENDO       APROVADO: 08/10/2026
+                                                 VLR PROV: 0,11229861100        
+                                                 PREV PAG: 07/12/2026
+                                                 EXERCICIO DE 2026
